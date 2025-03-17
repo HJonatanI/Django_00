@@ -20,7 +20,9 @@ pip freeze > requirements.txt
 
 2) Clonacion del repositorio Django_00 desde Github.
 
+```bash
 git clone https://github.com/usuario/Django_00.git
+```
 
 ### Documents
 * #### virtualE
