@@ -51,6 +51,6 @@ python manage.py runserver
 
 ```bash
 git add .
-git commit -m "Project Django "django_00" created"
+git commit -m "Project Django 'django_00' created"
 git push orign main
 ```
