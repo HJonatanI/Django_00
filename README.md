@@ -7,10 +7,12 @@ Grupos de repositorios para aprender Django
 
 1) Creación del entorno virtual, activación y creación del archivo requirements.txt.
 
+```bash
 python -m venv virtualE
 source virtualE/bin/activate
 pip install django
 pip freeze > requirements.txt
+```
 
 ### Documents
 * #### virtualE
@@ -27,10 +29,12 @@ git clone https://github.com/usuario/Django_00.git
 
 3) Instalación de Django, actualización de requirements.txt y creación del projecto django_00.
 
+```bash
 pip install django
 pip freeze > requirements.txt
 django-admin startproject django_00
 python manage.py runserver 
+```
 
 ### Documents
 * #### virtualE
@@ -43,6 +47,8 @@ python manage.py runserver
 
 4) Add, Commit y Push del repositorio local al remoto.
 
+```bash
 git add .
 git commit -m "Project Django "django_00" created"
 git push orign main
+```
