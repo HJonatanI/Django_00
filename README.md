@@ -3,7 +3,7 @@ Grupos de repositorios para aprender Django
 
 ## Git log "Project Django "django_00" created"
 
-#### Documents
+### Documents
 
 1) Creación del entorno virtual, activación y creación del archivo requirements.txt.
 
@@ -12,7 +12,7 @@ source virtualE/bin/activate
 pip install django
 pip freeze > requirements.txt
 
-#### Documents
+### Documents
 * #### virtualE
 * #### requerements.txt
 
@@ -20,7 +20,7 @@ pip freeze > requirements.txt
 
 git clone https://github.com/usuario/Django_00.git
 
-#### Documents
+### Documents
 * #### virtualE
 * #### requerements.txt
 * #### Django_00
